@@ -1,3 +1,6 @@
+body {
+    margin: 0;
+}
 .inline-block {
     display: inline-block;
     padding: 10px;
@@ -37,6 +40,8 @@
     background-color: lightgray;
     display:block;
     border: 1px solid black;
+    text-align: left;
+    padding-left: 100px;
 
 }
 .corgi {
